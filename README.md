@@ -1,12 +1,8 @@
-```markdown
-<!-- HEADER -->
-<div align="center">
-
-# Hi there, I'm Rihab Hamdani 👋
+# 👋 Hi, I'm Rihab Hamdani!
 
 ### Software Engineering Student | Full-Stack Developer | AI Enthusiast
 
-<p>
+<p align="center">
   <a href="https://github.com/Rihab-Hamdani">
     <img src="https://img.shields.io/badge/GitHub-Rihab--Hamdani-181717?style=for-the-badge&logo=github" />
   </a>
@@ -17,10 +13,6 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F172A,100:2563EB&height=120&section=header&text=Building%20Ideas%20Into%20Solutions&fontSize=27&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-</div>
 
 ---
 
@@ -41,22 +33,26 @@ I'm passionate about building useful, scalable, and intelligent software solutio
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+**Programming Languages**
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c" />
 </p>
 
-### Frontend Development
+**Frontend Development**
+
 <p>
   <img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,vite" />
 </p>
 
-### Backend Development
+**Backend Development & Databases**
+
 <p>
   <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,postgres,mongodb" />
 </p>
 
-### Tools & Technologies
+**Tools & Technologies**
+
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,idea,vscode" />
 </p>
@@ -66,6 +62,7 @@ I'm passionate about building useful, scalable, and intelligent software solutio
 ## 🚀 Featured Projects
 
 ### 📚 StudyMate AI
+
 An AI-powered study assistant designed to help students interact with their learning materials.
 
 - Document-based knowledge management.
@@ -75,9 +72,10 @@ An AI-powered study assistant designed to help students interact with their lear
 
 **Tech:** Python · FastAPI · React · TypeScript · PostgreSQL · Qdrant
 
-[View Repository](https://github.com/Rihab-Hamdani/StudyMate)
+[View Repository →](https://github.com/Rihab-Hamdani/StudyMate)
 
 ### 📦 Medical Cabinet Stock Management
+
 A Progressive Web Application designed to simplify inventory management for a medical cabinet.
 
 - Product and category management.
@@ -85,11 +83,12 @@ A Progressive Web Application designed to simplify inventory management for a me
 - Role-based access for doctors and secretaries.
 - Dashboard and usage analytics.
 
-**Tech:** Angular · Spring Boot · Java · PostgreSQL · Docker
+**Tech:** Angular · Spring Boot · Java · PostgreSQL
 
-[View Repository](https://github.com/Rihab-Hamdani/PWA-stock-cabinet-medical)
+[View Repository →](https://github.com/Rihab-Hamdani/PWA-stock-cabinet-medical)
 
 ### 🌱 FallahaTi
+
 An initiative exploring technology-driven solutions to support and empower women in agriculture.
 
 - Exploring accessible digital services.
@@ -113,15 +112,14 @@ Beyond coding, I enjoy collaborating, sharing knowledge, and contributing to the
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rihab-Hamdani&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rihab-Hamdani&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rihab-Hamdani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rihab-Hamdani&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=Rihab-Hamdani&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rihab-Hamdani&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -138,11 +136,12 @@ I'm always interested in meeting people who are passionate about technology, inn
   </a>
 </p>
 
-<div align="center">
+---
 
-### "Turning curiosity into code, and ideas into impact."
+<p align="center">
+  <i>"Turning curiosity into code, and ideas into impact."</i>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%" />
-
-</div>
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%" />
+</p>
